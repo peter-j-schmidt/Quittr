@@ -1,0 +1,2 @@
+FLASK_APP=quittr_backend
+FLASK_ENV-development
